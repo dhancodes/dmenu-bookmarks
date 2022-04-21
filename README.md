@@ -6,7 +6,7 @@ tag will launch the website in incognito (\private) mode. For ensuring that you 
 lose you bookmorks or to enusure multi-device sharing store them in your dropbox (/any other cloud storage)
 folder.
 
-NB: See the included csv file to see how to format your file. :)
+NB: See the sample csv file to see how to format your file. :)
 
 # Prerequisites
 - Dmenu 
